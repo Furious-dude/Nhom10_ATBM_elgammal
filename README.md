@@ -19,7 +19,7 @@ Nhóm: 10
 
 ##Báo cáo
 * [Phiếu báo cáo học tập](https://docs.google.com/document/d/1JJO5c3VqqX_Vhj-CdFnx53lbdvB2io3H/edit)
-* [Báo cáo thực nghiệm]()
+* [Báo cáo thực nghiệm](https://docs.google.com/document/d/1OHhzDOR5oO-d56SG1PfsgTm8ycJgYIOZ/edit)
 * [Giao diện của chương trình ]()
 
 
